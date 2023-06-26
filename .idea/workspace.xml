@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8052457-d8bf-45e4-aecf-b90e5ae86a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/CartaoDeCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../desafioAlura1/desafioAlura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/src/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/src/principal/Principal.java" afterDir="false" />
+    <list default="true" id="603041ce-eee5-4b15-a0fa-9cbfd5133de2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Modelos/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +25,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2RiiCZ7EYxst8KKTbi9ttunWYd1" />
+  <component name="ProjectId" id="2Rl2VTbpsGTiliQhh46Vzqhb8Oo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,19 +35,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "onboarding.tips.debug.path": "C:/Users/guilh/OneDrive/Documentos/Repositorios_git/praticaPOOAlura/principal/src/Main.java"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b8052457-d8bf-45e4-aecf-b90e5ae86a73" name="Changes" comment="" />
-      <created>1687739178074</created>
+      <changelist id="603041ce-eee5-4b15-a0fa-9cbfd5133de2" name="Changes" comment="" />
+      <created>1687810375556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1687739178074</updated>
+      <updated>1687810375556</updated>
     </task>
     <servers />
   </component>
