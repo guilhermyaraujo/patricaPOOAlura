@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8052457-d8bf-45e4-aecf-b90e5ae86a73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/CartaoDeCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appCartaoDeCredito/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioAlura1/desafioAlura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/src/modelos/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/src/modelos/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/src/principal/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RiiCZ7EYxst8KKTbi9ttunWYd1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "onboarding.tips.debug.path": "C:/Users/guilh/OneDrive/Documentos/Repositorios_git/praticaPOOAlura/principal/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8052457-d8bf-45e4-aecf-b90e5ae86a73" name="Changes" comment="" />
+      <created>1687739178074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687739178074</updated>
+    </task>
+    <servers />
+  </component>
+</project>
